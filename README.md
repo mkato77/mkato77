@@ -2,6 +2,8 @@
 
 [![mkato77's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkato77&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=36861b5e9812&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 <!--
 **mkato77/mkato77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
